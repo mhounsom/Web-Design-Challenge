@@ -1,0 +1,12 @@
+a.navbar-brand{
+    margin-left: 10px;
+    padding: 10px;
+    background-color: rgb(11, 187, 158);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+
+body{
+    background-color: rgb(206, 203, 203);
+}

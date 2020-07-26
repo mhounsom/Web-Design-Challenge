@@ -1,3 +1,5 @@
+# Here is the link to the project's webpage if you are wanting an easy way to access it: https://mhounsom.github.io/Web-Design-Challenge/
+
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
