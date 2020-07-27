@@ -1,3 +1,4 @@
+/* navigation bar*/
 a.navbar-brand{
     margin-left: 10px;
     padding: 10px;
@@ -6,7 +7,60 @@ a.navbar-brand{
     font-size: 25px;
 }
 
+.navbar{
+    padding-top:0px;
+    padding-bottom: 0px;
+    padding-right:40px;
+}   
 
+.nav-item.dropdown.show {
+    background-color: #ddd;
+}
+
+.dropdown-menu {
+    margin: 0;
+}
+
+/*main background*/
 body{
     background-color: rgb(206, 203, 203);
 }
+
+.col-md-12{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom:40px;
+}
+
+
+/*header*/
+h3{
+    color: rgb(11, 187, 158);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 15px;
+    font-weight: bold;
+}
+
+
+/*paragraph text*/
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding:10px;
+ }
+
+
+/*images*/
+.img-thumbnail{
+    padding:10px;
+    border: none;
+}
+
+
+/*Creating gap between navigation and content*/
+.content {
+    padding-top: 50px;
+    padding-bottom: 80px;
+    overflow: hidden;
+}
+
